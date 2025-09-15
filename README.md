@@ -126,3 +126,18 @@ Once deployed, your application will be available at the Vercel URL. You can the
 ## License
 
 This project is licensed under the MIT License.
+
+
+
+
+<img width="1892" height="934" alt="image" src="https://github.com/user-attachments/assets/432835d1-7332-4010-8ba2-ce5b645431ef" />
+
+
+<img width="1896" height="905" alt="image" src="https://github.com/user-attachments/assets/8ecfbceb-7bdb-45cc-8f5d-7c7fd3f0d8d2" />
+
+<img width="1878" height="860" alt="image" src="https://github.com/user-attachments/assets/740ec240-afc1-4f31-bb25-99dfc6b0ddb5" />
+
+<img width="817" height="787" alt="image" src="https://github.com/user-attachments/assets/fd6d3807-6246-446e-a997-262df7fba847" />
+
+<img width="1909" height="796" alt="image" src="https://github.com/user-attachments/assets/f8ecdcb9-007e-42c2-b2b0-7ee306fc0776" />
+
